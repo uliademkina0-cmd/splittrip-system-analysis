@@ -56,6 +56,5 @@ python currency_split_poc.py
 
 ## Контакты
 
-* Автор: [Имя Фамилия]
-* Telegram: `@username`
-* Email: `email@example.com`
+* Автор: Юлия
+* Telegram: @Demikul007
